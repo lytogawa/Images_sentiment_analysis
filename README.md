@@ -33,6 +33,55 @@ Dataset yang digunakan terdiri dari data kuantitatif dengan lebih dari 500 sampe
 ### Split dataset berdasarkan kolom Usage
 <img width="863" alt="Screenshot 2025-01-07 at 09 37 08" src="https://github.com/user-attachments/assets/4e975e94-c253-4054-911c-fc20f515f226" />
 
+### Mengulangi langkah convert string ke array dan drop data yang memiliki invalid rows
+<img width="865" alt="Screenshot 2025-01-07 at 10 17 51" src="https://github.com/user-attachments/assets/be7a1e78-fc3c-45cb-be77-6703f495942d" />
+
+### Hasil finalisasi dari beberapa langkah preprosesing diatas dan menampilkan contoh sample gambar dengan label
+<img width="890" alt="Screenshot 2025-01-07 at 10 21 30" src="https://github.com/user-attachments/assets/447a84c4-4cbd-4223-b876-71308eb41e9a" />
+
+### Menampilkan 9 sample gambar dengan label
+<img width="889" alt="Screenshot 2025-01-07 at 10 23 06" src="https://github.com/user-attachments/assets/fe137db3-cbc2-45d6-91c8-9c9264d5239f" />
+
+### Plot distribusi emotion
+<img width="892" alt="Screenshot 2025-01-07 at 10 24 10" src="https://github.com/user-attachments/assets/538de136-a042-48d9-8d2a-6ca7360742f8" />
+
+## Model Development
+
+### Flatten semua pixel dan ploting histogram
+<img width="890" alt="Screenshot 2025-01-07 at 10 44 41" src="https://github.com/user-attachments/assets/305fdaa4-58c9-4e0f-aeba-5ef9b0409700" />
+
+### Menampilkan sample image setelah di flatten
+<img width="891" alt="Screenshot 2025-01-07 at 10 45 53" src="https://github.com/user-attachments/assets/40bd06c8-d6ff-410a-b214-6d1ecad44680" />
+
+### Data kemudian di augmentasi
+<img width="890" alt="Screenshot 2025-01-07 at 10 46 39" src="https://github.com/user-attachments/assets/7bfd2ad0-44fb-4277-833b-c0ad2490f621" />
+
+### Pendistribusian emotion per data split
+<img width="890" alt="Screenshot 2025-01-07 at 10 47 25" src="https://github.com/user-attachments/assets/c8f996bc-926c-484a-97eb-96c9cffc7f04" />
+
+## Evaluation Model
+
+### Training data dan evaluasi model
+<img width="889" alt="Screenshot 2025-01-07 at 10 49 07" src="https://github.com/user-attachments/assets/5152a68b-e224-458a-9ca9-1de7aef1e840" />
+
+### Hasil training model
+<img width="866" alt="Screenshot 2025-01-07 at 19 46 04" src="https://github.com/user-attachments/assets/062a39d6-0205-47cd-8a29-14d83ece71cf" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
