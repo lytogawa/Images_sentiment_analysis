@@ -67,6 +67,9 @@ Dataset yang digunakan terdiri dari data kuantitatif dengan lebih dari 500 sampe
 ### Hasil training model
 <img width="866" alt="Screenshot 2025-01-07 at 19 46 04" src="https://github.com/user-attachments/assets/062a39d6-0205-47cd-8a29-14d83ece71cf" />
 
+## Kesimpulan
+Pada images sentiment analysis disini menggabungkan antara sentiment analysis berbasis gambar, dimana saat ini hasilnya sudah menunjukkan klasifikasi sentimen berdasarkan image namun masih perlu banyak perbaikan untuk dapat meningkatkan akurasi.
+
 
 
 
